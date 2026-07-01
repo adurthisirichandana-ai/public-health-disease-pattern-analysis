@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# Large dataset
+data/Global Health Statistics.csv
+
+# Ignore only the large trained model
+models/model.pkl
+
+# VS Code settings
+.vscode/
