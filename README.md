@@ -346,3 +346,28 @@ This project is intended for educational and portfolio purposes.
 # ⭐ Support
 
 If you found this project useful, consider giving this repository a ⭐ on GitHub.
+---
+
+# 📷 Application Screenshots
+
+## 🏠 Home Page
+
+![Home](images/home.png)
+
+---
+
+## 📊 EDA Dashboard
+
+![Dashboard](images/dashboard.png)
+
+---
+
+## 🤖 Prediction Page
+
+![Prediction](images/prediction.png)
+
+---
+
+## 📈 Comparative Analysis
+
+![Comparison](images/comparison.png)
